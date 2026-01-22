@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/fragments"
+    app:startDestination="@id/menuItems">
+
+    <fragment
+        android:id="@+id/menuItems"
+        android:name="hr.algebra.iamuapp.fragment.ItemsFragment"
+        android:label="@string/news">
+
+        <action
+            android:id="@+id/action_items_to_details"
+            app:destination="@id/detailFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/menuAbout"
+        android:name="hr.algebra.iamuapp.fragment.AboutFragment"
+        android:label="@string/about" />
+
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="hr.algebra.iamuapp.fragment.DetailFragment"
+        android:label="@string/detail" />
+
+    <fragment
+        android:id="@+id/menuSettings"
+        android:name="hr.algebra.iamuapp.fragment.SettingsFragment"
+        android:label="@string/settings" />
+
+</navigation>

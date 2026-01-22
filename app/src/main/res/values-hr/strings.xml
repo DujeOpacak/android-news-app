@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="please_wait">Molimo pričekajte…</string>
+    <string name="no_internet">Nema interneta</string>
+    <string name="application_made_by_duje_opa_ak">Aplikaciju napravio Duje Opačak</string>
+    <string name="about">O aplikaciji</string>
+    <string name="exit">Izađi</string>
+    <string name="really">Jeste li sigurni da želite izaći iz aplikacije?</string>
+    <string name="cancel">Odustani</string>
+    <string name="delete">Izbriši</string>
+    <string name="delete_confirm">Jeste li sigurni da želite obrisati ovaj članak?</string>
+    <string name="detail">Detalji</string>
+    <string name="settings">Postavke</string>
+    <string name="dark_mode">Crna tema</string>
+    <string name="dark_mode_desc">Omogući crnu temu</string>
+    <string name="news">Novosti</string>
+    <string name="language">Jezik</string>
+    <string name="language_desc">Odaberi jezik aplikacije</string>
+    <string name="news_title">Naslov vijesti</string>
+</resources>

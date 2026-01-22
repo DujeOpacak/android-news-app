@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="background">#0D0D0D</color>
+    <color name="surface">#1A1A1A</color>
+
+    <color name="card_background">#9E9E9E</color>
+
+    <color name="textPrimary">#F5F5F5</color>
+    <color name="textSecondary">#AAAAAA</color>
+
+    <color name="accent">#EF5350</color>
+
+    <color name="statusBar">#0D0D0D</color>
+    <color name="navigationBar">#0D0D0D</color>
+
+    <color name="ripple">#30EF5350</color>
+</resources>

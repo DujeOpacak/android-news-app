@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+
+    <color name="card_background">#9E9E9E</color>
+
+    <color name="textPrimary">#1A1A1A</color>
+    <color name="textSecondary">#666666</color>
+
+    <color name="accent">#C62828</color>
+
+    <color name="statusBar">#B71C1C</color>
+    <color name="navigationBar">#B71C1C</color>
+
+    <color name="ripple">#20C62828</color>
+    <color name="gradient_start_color">#A96565</color>
+    <color name="gradient_end_color">#C62828</color>
+</resources>
